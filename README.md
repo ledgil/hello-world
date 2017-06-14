@@ -1,5 +1,8 @@
 # hello-world
-
-hello world!
-
-I am ledgil,coming quickly!
+>*#include"iostream"
+using namespace std;
+int main()
+{
+  cout<<"hello word";
+  return 0;
+}
